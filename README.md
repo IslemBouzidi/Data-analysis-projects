@@ -1,2 +1,3 @@
 # Data-analysis-projects
-Why the happiness in the world is not equaly distributed? From Filand to Afghanistan ,we will see how happiness can be measured . You will know the answer why .
+I will apload weekly data analysis projects .
+if you're interested in this kind of things make sure you follow me .
